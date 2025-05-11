@@ -251,12 +251,12 @@ nav ul li a.active:after {
     margin: 10px 0;
 }
 
-.chart-placeholder {
+/* .chart-placeholder {
     height: 200px;
     background: linear-gradient(to bottom right, var(--accent-blue), var(--accent-pink));
     border-radius: var(--radius);
     margin-top: 20px;
-}
+} */
 
 /* Trusted By */
 .trusted-by {
