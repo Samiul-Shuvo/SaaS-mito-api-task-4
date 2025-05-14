@@ -103,6 +103,12 @@
     align-items: center;
 }
 
+.blog-card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
 .blog-sidebar {
     flex: 1;
 }
